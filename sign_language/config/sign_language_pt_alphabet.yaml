@@ -1,0 +1,185 @@
+# Portuguese Sign Language
+
+D:
+  rh_FFJ1:  0.0000
+  rh_FFJ2:  0.1740
+  rh_FFJ3:  0.5237
+  rh_FFJ4:  0.0000
+  rh_LFJ1:  0.0000
+  rh_LFJ2:  0.1740
+  rh_LFJ3:  0.5237
+  rh_LFJ4: -0.0000
+  rh_LFJ5: -0.0002
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.1740
+  rh_MFJ3:  0.5237
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.0000
+  rh_RFJ2:  0.1740
+  rh_RFJ3:  0.5237
+  rh_RFJ4: -0.0004
+  rh_THJ1: -0.0879
+  rh_THJ2:  0.6980
+  rh_THJ3: -0.0009
+  rh_THJ4: -0.0078
+  rh_THJ5: -0.1044
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+E:
+  rh_FFJ1:  0.6632
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  0.4364
+  rh_FFJ4: -0.2436
+  rh_LFJ1:  0.7852
+  rh_LFJ2:  1.5708
+  rh_LFJ3:  1.5708
+  rh_LFJ4:  0.0000
+  rh_LFJ5:  0.0000
+  rh_MFJ1:  0.7852
+  rh_MFJ2:  1.5708
+  rh_MFJ3:  1.5708
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.7852
+  rh_RFJ2:  1.5708
+  rh_RFJ3:  1.5708
+  rh_RFJ4:  0.0000
+  rh_THJ1:  0.5570
+  rh_THJ2:  0.6985
+  rh_THJ3:  0.0000
+  rh_THJ4:  0.2961
+  rh_THJ5:  0.0000
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+H:
+  rh_FFJ1:  0.2053
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  0.0039
+  rh_FFJ4: -0.0347
+  rh_LFJ1:  0.0000
+  rh_LFJ2:  0.0000
+  rh_LFJ3:  0.0000
+  rh_LFJ4:  0.0000
+  rh_LFJ5:  0.0000
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.0000
+  rh_MFJ3:  0.0000
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.0000
+  rh_RFJ2:  0.0000
+  rh_RFJ3:  0.0000
+  rh_RFJ4:  0.0000
+  rh_THJ1:  0.6982
+  rh_THJ2:  0.6979
+  rh_THJ3:  0.1745
+  rh_THJ4:  0.3893
+  rh_THJ5: -0.8202
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+
+
+L:
+  rh_FFJ1:  0.0000
+  rh_FFJ2:  0.1745
+  rh_FFJ3:  0.2618
+  rh_FFJ4: -0.2443
+  rh_LFJ1:  0.7852
+  rh_LFJ2:  1.5708
+  rh_LFJ3:  1.5708
+  rh_LFJ4:  0.0000
+  rh_LFJ5:  0.0000
+  rh_MFJ1:  0.7852
+  rh_MFJ2:  1.5708
+  rh_MFJ3:  1.5708
+  rh_MFJ4:  0.0043
+  rh_RFJ1:  0.7852
+  rh_RFJ2:  1.5708
+  rh_RFJ3:  1.5708
+  rh_RFJ4:  0.0043
+  rh_THJ1:  0.0524
+  rh_THJ2:  0.0000
+  rh_THJ3:  0.0000
+  rh_THJ4:  1.2216
+  rh_THJ5: -0.0699
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+O:
+  rh_FFJ1:  0.0000
+  rh_FFJ2:  1.2219
+  rh_FFJ3:  1.1345
+  rh_FFJ4:  0.0000
+  rh_LFJ1:  0.0000
+  rh_LFJ2:  1.2219
+  rh_LFJ3:  1.1345
+  rh_LFJ4:  0.0000
+  rh_LFJ5:  0.0000
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  1.2219
+  rh_MFJ3:  1.1345
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.0000
+  rh_RFJ2:  1.2219
+  rh_RFJ3:  1.1345
+  rh_RFJ4:  0.0000
+  rh_THJ1:  0.8028
+  rh_THJ2:  0.5235
+  rh_THJ3:  0.0000
+  rh_THJ4:  1.2215
+  rh_THJ5: -0.2269
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+R:
+  rh_FFJ1:  1.0470
+  rh_FFJ2:  1.5708
+  rh_FFJ3: -0.2618
+  rh_FFJ4:  0.0000
+  rh_LFJ1:  0.2618
+  rh_LFJ2:  1.5708
+  rh_LFJ3:  1.3090
+  rh_LFJ4: -0.3491
+  rh_LFJ5:  0.0000
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.0000
+  rh_MFJ3:  0.3832
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.2618
+  rh_RFJ2:  1.5708
+  rh_RFJ3:  1.3090
+  rh_RFJ4: -0.3490
+  rh_THJ1:  0.7330
+  rh_THJ2:  0.6980
+  rh_THJ3:  0.2092
+  rh_THJ4:  1.2220
+  rh_THJ5:  0.0350
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
+
+W:
+  rh_FFJ1:  0.0000
+  rh_FFJ2:  0.0000
+  rh_FFJ3: -0.0880
+  rh_FFJ4: -0.2620
+  rh_LFJ1:  0.2620
+  rh_LFJ2:  1.5708
+  rh_LFJ3:  0.8203
+  rh_LFJ4: -0.3488
+  rh_LFJ5:  0.5061
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.0000
+  rh_MFJ3: -0.0880
+  rh_MFJ4:  0.0000
+  rh_RFJ1:  0.0000
+  rh_RFJ2:  0.0000
+  rh_RFJ3: -0.0880
+  rh_RFJ4: -0.2620
+  rh_THJ1:  0.7330
+  rh_THJ2:  0.6982
+  rh_THJ3:  0.2094
+  rh_THJ4:  1.2214
+  rh_THJ5:  0.0349
+  rh_WRJ1:  0.0000
+  rh_WRJ2:  0.0000
