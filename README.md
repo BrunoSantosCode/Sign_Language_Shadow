@@ -1,15 +1,15 @@
 # Sign Language Shadow
 
-## Overview
+## 📖 Overview
 This repository contains a special implementation for translating Portuguese text into Portuguese Sign Language (LGP) using the **Shadow Robotic Hand**. The project aims to simulate sign language gestures based on input sentences, utilizing predefined joint configurations for each character in the Portuguese alphabet. The robotic hand reproduces these gestures to represent the corresponding letters.
 
-## Features
+## ✨ Features
 - **Text-to-Sign Translation**: Translate a user-provided Portuguese sentence into corresponding robotic hand gestures.
 - **Alphabet Support**: The YAML configuration file contains joint configurations for each letter in the Portuguese alphabet.
 - **Real-Time Feedback**: Letters are displayed in the terminal with real-time robotic hand movement for each corresponding character.
 - **Error Handling**: Characters not present in the dictionary are marked in red, while valid characters are highlighted in green.
 
-## Script Functionality
+## 🛠️ Scripts Functionality
 
 ### [`sign_language_shadow.py`](sign_language/src/sign_language_shadow.py)
   - Main Python script
@@ -25,7 +25,7 @@ This repository contains a special implementation for translating Portuguese tex
   - Portuguese Sign Language dictionary in YAML format
   - Contains the joint values for each letter
 
-## Dependencies
+## 📦 Dependencies
 
 This project relies on several key dependencies:
 
