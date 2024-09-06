@@ -1,8 +1,10 @@
-# Sign Language Shadow
+# Portuguese Sign Language Translation using Shadow Hand
 
 ## 📖 Overview
 
 This repository contains a special implementation for translating Portuguese text into Portuguese Sign Language (LGP) using the **Shadow Robotic Hand**. The project aims to simulate sign language gestures based on input sentences, utilizing predefined joint configurations for each character in the Portuguese alphabet. The robotic hand reproduces these gestures to represent the corresponding letters.
+
+This can be particularly useful for accessibility tools, robotics-assisted education, or research in human-robot interaction.
 
 
 ## ✨ Features
