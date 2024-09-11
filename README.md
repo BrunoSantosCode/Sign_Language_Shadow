@@ -46,3 +46,5 @@ This project relies on several key dependencies:
 Developed by Bruno Santos
 
 Feel free to reach out via email: brunosantos@fe.up.pt
+
+Last updated in: ``11/09/2024``
