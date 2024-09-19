@@ -50,9 +50,9 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
 
 This project relies on several key dependencies:
 
-  - Shadow Hand software: docker container running all the necessary software to establish communication and control the robotic hand;
-  - YAML: Used to load joint positions for sign language gestures;
-  - termcolor: Provides colored output for terminal feedback.
+  - **Shadow Hand software**: docker container running all the necessary software to establish communication and control the robotic hand;
+  - **YAML**: Used to load joint positions for sign language gestures;
+  - **termcolor**: Provides colored output for terminal feedback.
 
 
 ## 🚀 How to Run
