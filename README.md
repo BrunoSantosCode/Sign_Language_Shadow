@@ -1,4 +1,4 @@
-# Portuguese Sign Language Translation using Shadow Hand
+# 👋 Portuguese Sign Language Translation using Shadow Hand
 
 This repository contains a special implementation for translating Portuguese text into Portuguese Sign Language (LGP) using the **Shadow Robotic Hand**.
 
