@@ -66,6 +66,8 @@ This project relies on several key dependencies:
       rosrun sign_language sign_language_shadow.py
     ```
 
+4. Input the desired text to be translated into LGP.
+
 
 ## 📫 Contact
 
