@@ -36,8 +36,8 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
   - Acquires from Shadow Hand the current joint positions and ouput the values in YAML format.
 
 [`sign_language_pt_alphabet.yaml`](sign_language/config/sign_language_pt_alphabet.yaml)
-  - Portuguese Sign Language dictionary in YAML format.
-  - Contains the joint values for each letter;
+  - Portuguese Sign Language dictionary in YAML format;
+  - Contains the joint values for each letter.
 
 
 ## 📦 Dependencies
