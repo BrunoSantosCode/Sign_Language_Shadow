@@ -1,8 +1,10 @@
 # Portuguese Sign Language Translation using Shadow Hand
 
-## 📖 Overview
+This repository contains a special implementation for translating Portuguese text into Portuguese Sign Language (LGP) using the **Shadow Robotic Hand**.
 
-This repository contains a special implementation for translating Portuguese text into Portuguese Sign Language (LGP) using the **Shadow Robotic Hand**. The project aims to simulate sign language gestures based on input sentences, utilizing predefined joint configurations for each character in the Portuguese alphabet. The robotic hand reproduces these gestures to represent the corresponding letters.
+## 📌 Project Overview
+
+This project aims to simulate sign language gestures with Shadow Hand based on input sentences, utilizing predefined joint configurations for each character in the Portuguese alphabet. The robotic hand reproduces these gestures to represent the corresponding letters.
 
 This can be particularly useful for accessibility tools, robotics-assisted education, or research in human-robot interaction.
 
@@ -15,19 +17,25 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
 - **Error Handling**: Characters not present in the dictionary are marked in red, while valid characters are highlighted in green.
 
 
-## 🛠️ Scripts Functionality
+## 🎥 Watch the Robots in Action
 
-### [`sign_language_shadow.py`](sign_language/src/sign_language_shadow.py)
+ To see the Shadow Dexterous Hand in operation, check out the **YouTube demo video**:  
+ [Watch the video here (TO_BE_DONE)](https://youtu.be/dQw4w9WgXcQ)
+
+
+## ⚙️ Software Description
+
+[`sign_language_shadow.py`](sign_language/src/sign_language_shadow.py)
   - Main Python script;
   - The script reads a sentence input by the user, checks each character, and if available, moves the robotic hand to the corresponding joint positions;
   - If a space character is encountered, the script pauses for 2 seconds to indicate a word break;
   - Valid characters are highlighted in green and move the robotic hand;
   - Invalid or unsupported characters are highlighted in red and skipped.
 
-### [`get_shadow_joint_values.py`](sign_language/scripts/get_shadow_joint_values.py)
+[`get_shadow_joint_values.py`](sign_language/scripts/get_shadow_joint_values.py)
   - Acquires from Shadow Hand the current joint positions and ouput the values in YAML format.
 
-### [`sign_language_pt_alphabet.yaml`](sign_language/config/sign_language_pt_alphabet.yaml)
+[`sign_language_pt_alphabet.yaml`](sign_language/config/sign_language_pt_alphabet.yaml)
   - Portuguese Sign Language dictionary in YAML format.
   - Contains the joint values for each letter;
 
