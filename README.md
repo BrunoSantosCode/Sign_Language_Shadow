@@ -8,6 +8,8 @@ This project aims to simulate sign language gestures with Shadow Hand based on i
 
 This can be particularly useful for accessibility tools, robotics-assisted education, or research in human-robot interaction.
 
+ - **Robotic Hand**: Shadow Dexterous Hand
+ - **Development Environment**: ROS noetic, Docker
 
 ## ✨ Features
 
@@ -21,6 +23,10 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
 
  To see the Shadow Dexterous Hand in operation, check out the **YouTube demo video**:  
  [Watch the video here (TO_BE_DONE)](https://youtu.be/dQw4w9WgXcQ)
+
+
+## 🗂️ Folder Structure
+ - **[`sign_language`](sign_language)**: ROS package for controlling the Shadow Hand. This package should be placed in the Shadow Hand docker container at `/home/user/projects/shadow_robot/base/src`.
 
 
 ## ⚙️ Software Description
@@ -44,10 +50,22 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
 
 This project relies on several key dependencies:
 
-  - ROS (Robot Operating System): Manages communication with the robotic hand;
-  - sr_robot_commander: Shadow software for controlling the Shadow Hand;
+  - Shadow Hand software: docker container running all the necessary software to establish communication and control the robotic hand;
   - YAML: Used to load joint positions for sign language gestures;
   - termcolor: Provides colored output for terminal feedback.
+
+
+## 🚀 How to Run
+
+1. Turn on Shadow Hand and Shadow NUC
+   
+2. Execute `Launch Shadow Right Hand and Arm.desktop`
+
+3. In `Server Docker Container` terminal run `sign_language.py`
+    ```bash
+      rosrun sign_language sign_language_shadow.py
+    ```
+
 
 ## 📫 Contact
 
