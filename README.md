@@ -22,7 +22,7 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
 ## 🎥 Watch the Robots in Action
 
  To see the Shadow Dexterous Hand in operation, check out the **YouTube demo video**:  
- [Watch the video here (TO_BE_DONE)](https://youtu.be/dQw4w9WgXcQ)
+ [Watch the video here](https://youtu.be/1tv2a4a97cE)
 
 
 ## 🗂️ Folder Structure
