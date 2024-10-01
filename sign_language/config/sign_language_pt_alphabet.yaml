@@ -1,37 +1,62 @@
 # Portuguese Sign Language
+default:
+    rh_THJ1:  0.0837
+    rh_THJ2:  0.2629
+    rh_THJ3: -0.0944
+    rh_THJ4:  0.5838
+    rh_THJ5:  0.1794
+    rh_FFJ1:  0.0128
+    rh_FFJ2:  0.8508
+    rh_FFJ3:  0.0156
+    rh_FFJ4: -0.0500
+    rh_MFJ1:  0.0246
+    rh_MFJ2:  0.7201
+    rh_MFJ3:  0.1918
+    rh_MFJ4: -0.0160
+    rh_RFJ1:  0.0189
+    rh_RFJ2:  0.5994
+    rh_RFJ3:  0.4371
+    rh_RFJ4: -0.0297
+    rh_LFJ1:  0.0093
+    rh_LFJ2:  0.7751
+    rh_LFJ3:  0.0861
+    rh_LFJ4: -0.2209
+    rh_LFJ5:  0.3325
+    rh_WRJ1:  0.0000
+    rh_WRJ2:  0.0000
 
 A:
-  rh_FFJ1:  0.5681
-  rh_FFJ2:  1.0031
-  rh_FFJ3:  0.8565
-  rh_FFJ4: -0.0870
-  rh_LFJ1:  1.5706
-  rh_LFJ2:  1.5709
-  rh_LFJ3:  1.5708
+  rh_FFJ1:  0.6609
+  rh_FFJ2:  1.1722
+  rh_FFJ3:  0.5321
+  rh_FFJ4: -0.0605
+  rh_LFJ1:  1.3327
+  rh_LFJ2:  1.5700
+  rh_LFJ3:  1.5492
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.0000
-  rh_MFJ2:  0.5235
-  rh_MFJ3:  0.1745
+  rh_MFJ2:  0.0000
+  rh_MFJ3:  1.4110
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5705
-  rh_RFJ2:  1.5709
-  rh_RFJ3:  1.5708
-  rh_RFJ4:  0.0000
-  rh_THJ1: -0.2618
-  rh_THJ2:  0.6982
-  rh_THJ3: -0.2089
-  rh_THJ4:  1.2212
-  rh_THJ5:  0.1232
-  rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_RFJ1:  1.4736
+  rh_RFJ2:  1.5700
+  rh_RFJ3:  1.5543
+  rh_RFJ4:  0.0034
+  rh_THJ1: -0.2610
+  rh_THJ2:  0.5240
+  rh_THJ3: -0.1938
+  rh_THJ4:  1.0475
+  rh_THJ5:  0.3485
+  rh_WRJ1:  0.0060
+  rh_WRJ2: -0.4491
 
 B:
-  rh_FFJ1:  1.5857
-  rh_FFJ2:  1.5705
-  rh_FFJ3:  1.5709
+  rh_FFJ1:  1.5708
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5704
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
@@ -40,8 +65,8 @@ B:
   rh_MFJ2:  1.5708
   rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5698
-  rh_RFJ2:  1.5709
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  0.2619
@@ -50,24 +75,24 @@ B:
   rh_THJ4:  0.0000
   rh_THJ5:  0.0000
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_WRJ2: -0.4890
 
 C:
   rh_FFJ1:  0.0000
-  rh_FFJ2:  1.5706
+  rh_FFJ2:  1.5708
   rh_FFJ3:  0.4363
   rh_FFJ4:  0.0000
   rh_LFJ1:  0.0000
-  rh_LFJ2:  1.5704
+  rh_LFJ2:  1.5708
   rh_LFJ3:  0.4363
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.0000
-  rh_MFJ2:  1.5707
+  rh_MFJ2:  1.5708
   rh_MFJ3:  0.4363
   rh_MFJ4:  0.0000
   rh_RFJ1:  0.0000
-  rh_RFJ2:  1.5706
+  rh_RFJ2:  1.5708
   rh_RFJ3:  0.4363
   rh_RFJ4:  0.0000
   rh_THJ1:  0.4365
@@ -76,7 +101,7 @@ C:
   rh_THJ4:  1.0472
   rh_THJ5:  0.0000
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236 
+  rh_WRJ2: -0.4890
 
 D:
   rh_FFJ1:  0.0000
@@ -86,8 +111,8 @@ D:
   rh_LFJ1:  0.0000
   rh_LFJ2:  0.1740
   rh_LFJ3:  0.5237
-  rh_LFJ4: -0.0000
-  rh_LFJ5: -0.0002
+  rh_LFJ4:  0.0000
+  rh_LFJ5:  0.0000
   rh_MFJ1:  0.0000
   rh_MFJ2:  0.1740
   rh_MFJ3:  0.5237
@@ -95,14 +120,14 @@ D:
   rh_RFJ1:  0.0000
   rh_RFJ2:  0.1740
   rh_RFJ3:  0.5237
-  rh_RFJ4: -0.0004
+  rh_RFJ4:  0.0000
   rh_THJ1: -0.0879
-  rh_THJ2:  0.6980
-  rh_THJ3: -0.0009
-  rh_THJ4: -0.0078
-  rh_THJ5: -0.1044
-  rh_WRJ1: -0.6983
-  rh_WRJ2: -0.5236
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.0000
+  rh_THJ4:  0.0000
+  rh_THJ5: -0.1044  
+  rh_WRJ1: -0.6980
+  rh_WRJ2: -0.4890
 
 E:
   rh_FFJ1:  0.6632
@@ -123,7 +148,7 @@ E:
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  0.5570
-  rh_THJ2:  0.6985
+  rh_THJ2:  0.5240
   rh_THJ3:  0.0000
   rh_THJ4:  0.2961
   rh_THJ5:  0.0000
@@ -132,16 +157,16 @@ E:
 
 F:
   rh_FFJ1:  0.0000
-  rh_FFJ2:  0.7856
-  rh_FFJ3:  0.7854
+  rh_FFJ2:  0.9274
+  rh_FFJ3:  0.9441
   rh_FFJ4:  0.0000
   rh_LFJ1:  0.0000
   rh_LFJ2:  0.0000
   rh_LFJ3:  0.0000
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
-  rh_MFJ1: -0.0476
-  rh_MFJ2:  0.0170
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.0000
   rh_MFJ3:  0.0000
   rh_MFJ4:  0.0000
   rh_RFJ1:  0.0000
@@ -149,7 +174,7 @@ F:
   rh_RFJ3:  0.0000
   rh_RFJ4:  0.0000
   rh_THJ1:  0.0000
-  rh_THJ2:  0.6984
+  rh_THJ2:  0.5240
   rh_THJ3:  0.0000
   rh_THJ4:  0.5061
   rh_THJ5:  0.5062
@@ -157,9 +182,9 @@ F:
   rh_WRJ2:  0.0000
 
 G:
-  rh_FFJ1:  1.5702
-  rh_FFJ2:  1.5709
-  rh_FFJ3:  1.5709
+  rh_FFJ1:  1.5708
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
   rh_LFJ1:  1.5533
   rh_LFJ2:  1.5708
@@ -175,7 +200,7 @@ G:
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  1.1514
-  rh_THJ2:  0.6990
+  rh_THJ2:  0.5240
   rh_THJ3:  0.0000
   rh_THJ4:  1.1022
   rh_THJ5: -0.0149
@@ -200,18 +225,18 @@ H:
   rh_RFJ2:  0.0000
   rh_RFJ3:  0.0000
   rh_RFJ4:  0.0000
-  rh_THJ1:  0.6982
-  rh_THJ2:  0.6979
-  rh_THJ3:  0.1745
-  rh_THJ4:  0.3893
-  rh_THJ5: -0.8202
+  rh_THJ1:  0.6121
+  rh_THJ2:  0.2697
+  rh_THJ3: -0.1450
+  rh_THJ4:  0.8599
+  rh_THJ5:  0.3408
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
 
 I:
-  rh_FFJ1:  1.5728
-  rh_FFJ2:  1.5709
-  rh_FFJ3:  1.5709
+  rh_FFJ1:  1.5708
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
   rh_LFJ1:  0.0000
   rh_LFJ2:  0.0000
@@ -226,11 +251,11 @@ I:
   rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
-  rh_THJ1:  1.1509
-  rh_THJ2:  0.6978
-  rh_THJ3:  0.0000
-  rh_THJ4:  1.1089
-  rh_THJ5: -0.0067
+  rh_THJ1:  0.6121
+  rh_THJ2:  0.2697
+  rh_THJ3: -0.1450
+  rh_THJ4:  0.8599
+  rh_THJ5:  0.3408
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000 
 
@@ -246,15 +271,15 @@ J:
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.0000
   rh_MFJ2:  0.0000
-  rh_MFJ3:  0.0012
-  rh_MFJ4:  0.0047
+  rh_MFJ3:  0.0000
+  rh_MFJ4:  0.0000
   rh_RFJ1:  0.0000
   rh_RFJ2:  0.0000
   rh_RFJ3:  0.0000
   rh_RFJ4:  0.0000
   rh_THJ1:  0.2617
-  rh_THJ2:  0.6984
-  rh_THJ3: -0.2109
+  rh_THJ2:  0.5240
+  rh_THJ3: -0.2090
   rh_THJ4:  0.8772
   rh_THJ5:  0.2959
   rh_WRJ1:  0.0000
@@ -284,7 +309,7 @@ K:
   rh_THJ4:  0.8376
   rh_THJ5:  0.9601
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_WRJ2: -0.4890
 
 L:
   rh_FFJ1:  0.0000
@@ -307,7 +332,7 @@ L:
   rh_THJ1:  0.0524
   rh_THJ2:  0.0000
   rh_THJ3:  0.0000
-  rh_THJ4:  1.2216
+  rh_THJ4:  1.2210
   rh_THJ5: -0.0699
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
@@ -317,52 +342,52 @@ M:
   rh_FFJ2:  0.3473
   rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5706
-  rh_LFJ2:  1.5705
+  rh_LFJ1:  1.5708
+  rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.3439
   rh_MFJ2:  0.0000
-  rh_MFJ3:  1.5703
+  rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
   rh_RFJ1:  0.3441
   rh_RFJ2:  0.0000
   rh_RFJ3:  1.3758
   rh_RFJ4: -0.2514
-  rh_THJ1:  0.0282
-  rh_THJ2:  0.6862
-  rh_THJ3:  0.2096
-  rh_THJ4:  1.2386
-  rh_THJ5:  0.5742
-  rh_WRJ1:  0.4891
-  rh_WRJ2: -0.5236
+  rh_THJ1:  1.5708
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.2090
+  rh_THJ4:  1.2196
+  rh_THJ5:  0.2231
+  rh_WRJ1:  0.4880
+  rh_WRJ2: -0.4890
 
 N:
   rh_FFJ1:  0.0000
   rh_FFJ2:  0.3488
-  rh_FFJ3:  1.5709
+  rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5709
-  rh_LFJ2:  1.5704
+  rh_LFJ1:  1.5708
+  rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.3587
   rh_MFJ2:  0.0000
-  rh_MFJ3:  1.5716
+  rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5730
-  rh_RFJ2:  1.5711
-  rh_RFJ3:  1.5714
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
+  rh_RFJ3:  1.5708
   rh_RFJ4:  0.0905
-  rh_THJ1:  0.3593
-  rh_THJ2:  0.6300
-  rh_THJ3:  0.2095
-  rh_THJ4:  1.2299
-  rh_THJ5:  0.4912
-  rh_WRJ1:  0.4888
-  rh_WRJ2: -0.5236
+  rh_THJ1:  1.5708
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.2090
+  rh_THJ4:  1.2196
+  rh_THJ5:  0.2231
+  rh_WRJ1:  0.4880
+  rh_WRJ2: -0.4890
 
 O:
   rh_FFJ1:  0.0000
@@ -385,10 +410,10 @@ O:
   rh_THJ1:  0.8028
   rh_THJ2:  0.5235
   rh_THJ3:  0.0000
-  rh_THJ4:  1.2215
+  rh_THJ4:  1.2210
   rh_THJ5: -0.2269
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_WRJ2: -0.4890
 
 P:
   rh_FFJ1:  0.3115
@@ -410,37 +435,37 @@ P:
   rh_RFJ4:  0.0000
   rh_THJ1:  0.4344
   rh_THJ2:  0.3481
-  rh_THJ3: -0.2091
+  rh_THJ3: -0.2090
   rh_THJ4:  1.1727
   rh_THJ5:  0.3415
-  rh_WRJ1:  0.4888
-  rh_WRJ2: -0.5236
+  rh_WRJ1:  0.4880
+  rh_WRJ2: -0.4890
 
 Q:
-  rh_FFJ1:  1.5728
-  rh_FFJ2:  1.5706
+  rh_FFJ1:  1.5708
+  rh_FFJ2:  1.5708
   rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5707
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5356
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
-  rh_MFJ1:  1.5719
+  rh_MFJ1:  1.5708
   rh_MFJ2:  1.5355
   rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5716
+  rh_RFJ1:  1.5708
   rh_RFJ2:  1.5356
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
-  rh_THJ1: -0.2618
+  rh_THJ1: -0.2610
   rh_THJ2: -0.2443
   rh_THJ3:  0.0000
   rh_THJ4:  0.0000
   rh_THJ5:  0.0000
-  rh_WRJ1:  0.4889
-  rh_WRJ2: -0.5236
+  rh_WRJ1:  0.4880
+  rh_WRJ2: -0.4890
 
 R:
   rh_FFJ1:  1.0470
@@ -450,7 +475,7 @@ R:
   rh_LFJ1:  0.2618
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.3090
-  rh_LFJ4: -0.3491
+  rh_LFJ4: -0.3490
   rh_LFJ5:  0.0000
   rh_MFJ1:  0.0000
   rh_MFJ2:  0.0000
@@ -461,19 +486,19 @@ R:
   rh_RFJ3:  1.3090
   rh_RFJ4: -0.3490
   rh_THJ1:  0.7330
-  rh_THJ2:  0.6980
-  rh_THJ3:  0.2092
-  rh_THJ4:  1.2220
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.2090
+  rh_THJ4:  1.2210
   rh_THJ5:  0.0350
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
 
 S:
-  rh_FFJ1:  0.7203
-  rh_FFJ2:  1.5488
+  rh_FFJ1:  0.3501
+  rh_FFJ2:  1.4624
   rh_FFJ3:  1.1341
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5718
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
@@ -483,14 +508,14 @@ S:
   rh_MFJ3:  1.2204
   rh_MFJ4:  0.0000
   rh_RFJ1:  1.5699
-  rh_RFJ2:  1.5707
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
-  rh_THJ1:  1.5682
-  rh_THJ2:  0.7013
-  rh_THJ3:  0.1745
-  rh_THJ4:  0.4396
-  rh_THJ5:  0.0000
+  rh_THJ1:  1.5708
+  rh_THJ2:  0.6886
+  rh_THJ3: -0.0295
+  rh_THJ4:  0.5414
+  rh_THJ5:  0.0950
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
 
@@ -499,33 +524,33 @@ T:
   rh_FFJ2:  0.0000
   rh_FFJ3:  0.0000
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5711
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
-  rh_MFJ1:  1.5705
-  rh_MFJ2:  1.5706
+  rh_MFJ1:  1.5708
+  rh_MFJ2:  1.5708
   rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5726
-  rh_RFJ2:  1.5702
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
-  rh_THJ1: -0.2619
+  rh_THJ1: -0.2610
   rh_THJ2: -0.2618
   rh_THJ3:  0.0000
   rh_THJ4:  0.0000
   rh_THJ5:  0.0000
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_WRJ2: -0.4890
 
 U:
   rh_FFJ1:  0.0000
   rh_FFJ2:  0.0000
   rh_FFJ3:  0.0000
   rh_FFJ4: -0.0175
-  rh_LFJ1:  1.5702
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
@@ -534,13 +559,13 @@ U:
   rh_MFJ2:  0.0000
   rh_MFJ3:  0.0000
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5703
+  rh_RFJ1:  1.5708
   rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  1.1344
-  rh_THJ2:  0.6984
-  rh_THJ3: -0.2095
+  rh_THJ2:  0.5240
+  rh_THJ3: -0.2090
   rh_THJ4:  1.2204
   rh_THJ5:  0.2095
   rh_WRJ1:  0.0000
@@ -551,8 +576,8 @@ V:
   rh_FFJ2:  0.0000
   rh_FFJ3:  0.0000
   rh_FFJ4: -0.0873
-  rh_LFJ1:  1.5706
-  rh_LFJ2:  1.5707
+  rh_LFJ1:  1.5708
+  rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
@@ -560,13 +585,13 @@ V:
   rh_MFJ2:  0.0000
   rh_MFJ3:  0.2619
   rh_MFJ4:  0.2618
-  rh_RFJ1:  1.5704
-  rh_RFJ2:  1.5709
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1: -0.1746
-  rh_THJ2:  0.6632
-  rh_THJ3: -0.2095
+  rh_THJ2:  0.5240
+  rh_THJ3: -0.2090
   rh_THJ4:  1.0456
   rh_THJ5:  0.9605
   rh_WRJ1:  0.0000
@@ -591,9 +616,9 @@ W:
   rh_RFJ3: -0.0880
   rh_RFJ4: -0.2620
   rh_THJ1:  0.7330
-  rh_THJ2:  0.6982
-  rh_THJ3:  0.2094
-  rh_THJ4:  1.2214
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.2090
+  rh_THJ4:  1.2210
   rh_THJ5:  0.0349
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
@@ -601,51 +626,51 @@ W:
 X:
   rh_FFJ1:  0.0000
   rh_FFJ2:  0.0000
-  rh_FFJ3:  0.0973
-  rh_FFJ4:  0.1940
-  rh_LFJ1:  1.5707
-  rh_LFJ2:  1.5710
+  rh_FFJ3:  0.2691
+  rh_FFJ4:  0.0903
+  rh_LFJ1:  1.5708
+  rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
-  rh_MFJ1:  1.0418
-  rh_MFJ2:  0.0000
-  rh_MFJ3: -0.2618
-  rh_MFJ4: -0.2810
-  rh_RFJ1:  1.5702
-  rh_RFJ2:  1.5716
+  rh_MFJ1:  0.0000
+  rh_MFJ2:  0.7000
+  rh_MFJ3: -0.2610
+  rh_MFJ4: -0.3242
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  0.0000
-  rh_THJ2:  0.6967
-  rh_THJ3:  0.2094
-  rh_THJ4:  1.2241
+  rh_THJ2:  0.5240
+  rh_THJ3:  0.2090
+  rh_THJ4:  1.2210
   rh_THJ5:  0.5379
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
 
 Y:
-  rh_FFJ1:  1.5702
-  rh_FFJ2:  1.5711
-  rh_FFJ3:  1.5706
+  rh_FFJ1:  1.5708
+  rh_FFJ2:  1.5708
+  rh_FFJ3:  1.5708
   rh_FFJ4:  0.0000
   rh_LFJ1:  0.0000
   rh_LFJ2:  0.0000
   rh_LFJ3:  0.0000
-  rh_LFJ4: -0.3493
+  rh_LFJ4: -0.3490
   rh_LFJ5:  0.0000
-  rh_MFJ1:  1.5741
-  rh_MFJ2:  1.5693
+  rh_MFJ1:  1.5708
+  rh_MFJ2:  1.5708
   rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5728
+  rh_RFJ1:  1.5708
   rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
-  rh_THJ1: -0.2620
+  rh_THJ1: -0.2610
   rh_THJ2: -0.2014
   rh_THJ3:  0.0000
-  rh_THJ4: -0.0407
+  rh_THJ4:  0.0000
   rh_THJ5:  0.0000
   rh_WRJ1:  0.0000
   rh_WRJ2:  0.0000
@@ -655,23 +680,23 @@ Z:
   rh_FFJ2:  1.5708
   rh_FFJ3:  0.5234
   rh_FFJ4:  0.0000
-  rh_LFJ1:  1.5704
+  rh_LFJ1:  1.5708
   rh_LFJ2:  1.5708
   rh_LFJ3:  1.5708
   rh_LFJ4:  0.0000
   rh_LFJ5:  0.0000
-  rh_MFJ1:  1.5702
-  rh_MFJ2:  1.5707
+  rh_MFJ1:  1.5708
+  rh_MFJ2:  1.5708
   rh_MFJ3:  1.5708
   rh_MFJ4:  0.0000
-  rh_RFJ1:  1.5715
-  rh_RFJ2:  1.5709
+  rh_RFJ1:  1.5708
+  rh_RFJ2:  1.5708
   rh_RFJ3:  1.5708
   rh_RFJ4:  0.0000
   rh_THJ1:  0.7505
-  rh_THJ2:  0.6982
+  rh_THJ2:  0.5240
   rh_THJ3:  0.0173
-  rh_THJ4:  1.2220
+  rh_THJ4:  1.2210
   rh_THJ5:  0.0191
   rh_WRJ1:  0.0000
-  rh_WRJ2: -0.5236
+  rh_WRJ2: -0.4890
