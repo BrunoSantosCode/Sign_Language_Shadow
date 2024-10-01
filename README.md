@@ -45,6 +45,9 @@ This can be particularly useful for accessibility tools, robotics-assisted educa
   - Portuguese Sign Language dictionary in YAML format;
   - Contains the joint values for each letter.
 
+[`check_joint_limits.py`](sign_language/scripts/check_joint_limits.py)
+  - Quickly check in the yaml file if the joint angles are within the limits.
+
 
 ## 📦 Dependencies
 
