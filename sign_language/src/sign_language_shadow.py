@@ -14,19 +14,6 @@ def remove_accent(input_str):
         (char for char in unicodedata.normalize('NFD', input_str)
          if unicodedata.category(char) != 'Mn')
     )
-
-def special_cases(prev_chr, chr):
-    if prev_chr == chr:
-        return True
-    if (chr=='M') and ((prev_chr!='N') and (prev_chr!='S')):
-        return True
-    if (chr=='N') and ((prev_chr!='M') and (prev_chr!='S')):
-        return True
-    if (chr=='S') and ((prev_chr!='M') and (prev_chr!='N')):
-        return True
-    if chr=='E' and prev_chr=='M':
-        return True
-    return False
     
 def translate_to_sign_language(text, hand_commander, sign_dict):
     global previous_chr
@@ -36,11 +23,10 @@ def translate_to_sign_language(text, hand_commander, sign_dict):
             print(" ", end='', flush=True)
             rospy.sleep(1.0)
         elif char.upper() in sign_dict:
-            if special_cases(previous_chr, char.upper()):
-                hand_commander.move_to_joint_value_target_unsafe(
-                    joint_states=sign["default"],
-                    time=0.25, wait=True, angle_degrees=False
-                )
+            hand_commander.move_to_joint_value_target_unsafe(
+                joint_states=sign["default"],
+                time=0.25, wait=True, angle_degrees=False
+            )
             print(colored(raw_char, 'green'), end='', flush=True)
             hand_commander.move_to_joint_value_target_unsafe(
                 joint_states=sign_dict[char.upper()],
